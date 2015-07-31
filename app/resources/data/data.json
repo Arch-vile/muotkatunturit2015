@@ -1,6 +1,25 @@
 {
 	"location": "Muotkatunturit",
 	"year": 2015,
+	"prolog":
+		{
+			"paragraphs": [
+				{
+					"text": "some text here",
+					"images": [
+						"logo.png","logo.png"
+					]
+				},
+				{
+					"text": "some text here too",
+					"images": [
+						"logo.png","logo.png"
+					]
+				}
+			],
+			"images": ["logo.png","logo.png"]
+		}
+	,
 	"entries": [
 		 {
 		 	"start": "2012-04-23",

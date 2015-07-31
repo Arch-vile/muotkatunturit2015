@@ -1,0 +1,11 @@
+
+<h1>{{content.location}} {{content.year}}</h1>
+
+
+<h2>Esipuhe</h2>
+<div class="prolog paragraph" ng-repeat="paragraph in content.prolog.paragraphs">
+	<p>{{paragraph.text}}</p>
+	<img src="resources/data/images/{{image}}" ng-repeat="image in paragraph.images track by $index"/>
+</div>
+
+
