@@ -13,9 +13,9 @@ angular.module('myApp.view1', ['ngRoute'])
 
 	$scope.names = ["mikko", "markus"];
 	
-	$http.get('data/data.json').
+	$http.get('resources/data/data.json').
     success(function(data, status, headers, config) {
-      $scope.ages = data.ages;
+      $scope.content = data;
     }).
     error(function(data, status, headers, config) {
       // log error

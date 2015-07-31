@@ -1,0 +1,22 @@
+{
+	"location": "Muotkatunturit",
+	"year": 2015,
+	"entries": [
+		 {
+		 	"start": "2012-04-23",
+		 	"end": "2012-04-24",
+			"summary": "from here to there",
+			"routeLength": 10.2,
+			"blocks": [
+				{
+					"paragraphs": ["paragraph 1","paragraph 2"],
+					"images": ["logo.png","logo.png"]
+				},
+				{
+					"paragraphs": ["paragraph 3","paragraph 4"],
+					"images": ["logo.png","logo.png"]
+				}
+			]
+		}
+	]
+}
