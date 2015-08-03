@@ -26,14 +26,29 @@
 			"image": "thermacell.jpeg"
 		},
 		{
-			"name": "Vesileili Ortlieb",
+			"name": "Vesileili Ortlieb 10l",
+			"text": "Käytännössä kuivasäkki, jonka pohjaan liitetty kierrettävä venttiili. Venttiili olisi käytettävämpi puristettavana / käännettävänä hanana, jolloin käyttö onnistuisi yhdellä kädellä.",
+			"pros": ["Ehdoton apu leirielemään","Kestävä materiaali pussissa ja venttiilissä","Sopiva koko","Toimii myös kuivasäkkinä"],
+			"cons": ["Käyttö vaatii kaksi kättä"],
+			"verdict": "menettelee",
+			"image": "ortlieb.jpg"
+		},
+		{
+			"name": "Savotta Kajka 100l",
 			"text": "",
 			"pros": [""],
 			"cons": [""],
 			"verdict": ""
 		},
 		{
-			"name": "Savotta Kajka 100l",
+			"name": "Pitkähihainen urheilupaita , permetriini käsittely",
+			"text": "",
+			"pros": [""],
+			"cons": [""],
+			"verdict": ""
+		},
+		{
+			"name": "",
 			"text": "",
 			"pros": [""],
 			"cons": [""],
@@ -55,6 +70,10 @@
 		{
 			"description": "kahvia mukaan",
 			"action": "vahvempaa"
+		},
+		{
+			"description": "aluspaidat kauluksellisia",
+			"action": "some action"
 		},
 		{
 			"description": "some text",

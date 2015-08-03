@@ -33,7 +33,7 @@
 						]
 				},
 				{
-					"text": "Etenimme Peltojokea hiljalleen rinkat selessä kalastaen. Eipä aikaakaan kun reissun ensimmäinen kala saatiin rannalle; alamittainen harjus, joka jäi myös lajinsa viimeiseksi edustajaksi tällä reissulla. Peltojoki oli ainakin tänä vuonna tähän aikaan kovin matala, joten kalapaikkoja oli hieman harvassa. Alamittaista taimenta alkoi nousemaan hieman myöhemmin päivällä ja sitähän tuli paljon.",
+					"text": "Etenimme Peltojokea hiljalleen rinkat selessä kalastaen. Eipä aikaakaan kun reissun ensimmäinen kala saatiin rannalle; alamittainen harjus, joka jäi myös lajinsa viimeiseksi edustajaksi tällä reissulla. Peltojoki oli ainakin tänä vuonna tähän aikaan kovin matala, joten kalapaikkoja oli hieman harvassa. Alamittaista taimenta alkoi nousemaan hieman myöhemmin päivällä ja sitähän tuli paljon. Mittakaloja ei yhtäkään.",
 					"images": [
 							{"file": "re_P1020014.JPG", "caption": "Reissun ensimmäinen kala (ja viimeinen harjus)"},
 							{"file": "re_P1020018.JPG", "caption": "Markuksen ensimmäinen alamittainen"},
@@ -48,11 +48,37 @@
 						]
 				},
 				{
-					"text": "Perinteen mukaan illalla kerrataan päivän tapahtumat ja kirjataan muistiin tulevia reissuja sekä matkapäiväkirjaa varten. Samalla testattiin myös ensimmäistä kertaa matkassa mukana ollut kahvipannu. Aiemmin mukana olleet pikakahvijauheet eivät kyllä pärjää mitenkään aidolle kahville, joten tästä eteenpäin pannu lienee mukana aina. ",
+					"text": "Perinteen mukaan illalla kerrataan päivän tapahtumat ja kirjataan muistiin tulevia reissuja sekä matkapäiväkirjaa varten. Samalla testattiin myös ensimmäistä kertaa matkassa mukana ollut kahvipannu. Aiemmin mukana olleet pikakahvijauheet eivät kyllä pärjää mitenkään aidolle kahville, joten tästä eteenpäin pannu lienee mukana aina.",
 					"images": [
 							{"file": "re_P1020022.JPG", "caption": "Tavan mukaan illalla kerrataan ja kirjataan päivän tapahtumat"},
 							{"file": "re_P1020023.JPG", "caption": "Aidot kahvit"}
-
+						]
+				},
+				{
+					"text": "Ruokailuun liittyen testiin laitettiin myös vesileili, jona toimi Ortliebin vesileili (/matkasuihku) 10l. Kuin normaali kuivasäkki, jossa pohjassa kierteellä toimiva venttiili. Helppo täyttää vesipaikassa, mutta venttiili jättää toivomisen varaa, sillä avaamiseen ja sulkemiseen tarvitaan kaksi kättä ja säätökin on hieman vaikeaa. Venttiili saisi olla puristettava/käännettävä, jotta sen saisi auki yhdellä kädellä. Edellisellä reissulla käytettiin kuivasäkkiä tähän tarkoitukseen, joten tämä tiedettiin jo tarpeelliseksi. Tarvittavat ilta, aamu ja tiskivedet saa kätevästi yhdellä reissulla joelle. Myös kädet saa pestyä kätevästi. Tekee leirielemästä huomattavasti helpompaa.",
+					"images": [
+							{"file": "re_P1020024.JPG", "caption": "Vesileili asennettuna"}
+						]
+				}
+			]
+		},
+		{
+		 	"date": "2015-07-23",
+			"summary": "Peltojoki - Ylempi harrijärvi",
+			"routeLength": 9,
+			"paragraphs": [
+				{
+					"text": "Vielä arkirytmissä olevana Mikko herätti telttakunnan puoli kahdeksan aikoihin aamulla, joten pääsimme ajoissa liikkeelle. Jatkoimme matkaa pitkin jokea kalastellen kohti Lahtisen kämppää. Ensimmäisen tunnin verran ei kala ollut syönnillä, ei edes tärppejä vaikka hyviä kalapaikkoja joki näyttikin. Hiljalleen meno parani ja loppupätkällä kämpälle alamittaisia taimenia tulikin jo aika paljon.",
+					"images": [
+							{"file": "re_P1020025.JPG", "caption": "Aamupala syöty ja astiat tiskattu"},
+							{"file": "re_P1020026.JPG", "caption": "Peltojoen syvänteitä"}
+						]
+				},
+				{
+					"text": "Kämppä tosiaan on liian pieni, jotta siellä voisi mukavasti nukkua. Toimii kyllä sadekatoksena ja kokkauspaikkana varmaankin. Kämpällä tapasimme ensimmäiset ihmiset sitten lähdön. Olivat kalastelleet jokea ja edempänä olevia Harrijärviä tuloksetta. Huhupuheiden mukaan joku toinen porukka oli harjuksia nähnyt/saanut järviltä. Kämpältä lähdettyä Markus nappasi siihen asti isoimman taimenen (35 cm); edelleen alamittainen, mutta antoi hieman toivoa surkeasti alkaneeseen kalastukseen (ikävä kyllä tämä jäi reissun isoimmaksi).",
+					"images": [
+							{"file": "re_P1020028.JPG", "caption": "Lahtisen kämpällä"},
+							{"file": "re_P1020029.JPG", "caption": "Reissun isoin (35cm)"}
 						]
 				}
 			]
