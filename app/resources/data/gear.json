@@ -3,7 +3,7 @@
 
 		{
 			"name": "Kahvipannu ja pannukahvi",
-			"text": "Reissulla uutena mukana pannu ja kahvit aikaisempien pussikahvien sijaan. Voi että, kylläpä maistuu paremmalta ja tunnelmakin on kohdillaan.",
+			"text": "Reissulla uutena mukana pannu ja kahvit aikaisempien pussikahvien sijaan. Voi että, kylläpä maistuu paremmalta ja tunnelmakin on kohdillaan. Ensi kerralla mukaan hieman vahvempaa kahvia (tumma paahtoa).",
 			"pros": ["Maku","Helppo kaataa","Toimii myös teelle"],
 			"cons": ["Vain mustana (harkintaan maitojauhetta)", "1 litran pannu riittää vain kahdelle", "Ei muuta käyttöä"],
 			"verdict": "Mukaan",
@@ -22,8 +22,22 @@
 			"text": "Butaanilla toimiva hyttyskarkoitin. Lupaa 20m alueen vapaaksi hyttysistä. Tuntuu toimivan, mutta teho toki rajoittuu pienessäkin tuulessa ja alue on todellisuudessa pienempi. Pidettiin päällä aina pidemmillä ruokailutauoilla, jotta sai rauhassa kokkailla.",
 			"pros": ["Toimii oikeastaan aika hyvin","Tuo rauhan ötököiltä pidemmillä tauoilla"],
 			"cons": ["Paino","Tuulessa teho heikompi","Ei tietenkään toimi liikkeessä"],
-			"verdict": "",
+			"verdict": "Riippuen vaellusajankohdasta ja kohteesta",
 			"image": "thermacell.jpeg"
+		},
+		{
+			"name": "Vesileili Ortlieb",
+			"text": "",
+			"pros": [""],
+			"cons": [""],
+			"verdict": ""
+		},
+		{
+			"name": "Savotta Kajka 100l",
+			"text": "",
+			"pros": [""],
+			"cons": [""],
+			"verdict": ""
 		},
 		{
 			"name": "",
@@ -33,4 +47,5 @@
 			"verdict": ""
 		}
 	]
+	
 }
