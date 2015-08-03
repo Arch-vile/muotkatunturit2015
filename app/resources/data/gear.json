@@ -2,8 +2,15 @@
 	"gear": [
 
 		{
-			"name": "Kahvipannu",
-			"text": "Ihan jees",
+			"name": "Kahvipannu ja pannukahvi",
+			"text": "Reissulla uutena mukana pannu ja kahvit aikaisempien pussikahvien sijaan. Voi että, kylläpä maistuu paremmalta ja tunnelmakin on kohdillaan.",
+			"pros": ["Maku","Helppo kaataa","Toimii myös teelle"],
+			"cons": ["Vain mustana (harkintaan maitojauhetta)", "1 litran pannu riittää vain kahdelle", "Ei muuta käyttöä"],
+			"verdict": "Ehdottomasti mukaan"
+		},
+		{
+			"name": "Pokkari",
+			"text": "Hyvä, tulee kuvattua enemmän. Ulkoneva linssi aiheutti pientä säätöä tunkiessa rinkan lannevyön taskuun",
 			"pros": ["yks","kaks"],
 			"cons": ["toinen", "kolmas"],
 			"verdict": "mukaan"
