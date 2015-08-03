@@ -57,3 +57,12 @@ TABLE.gear TD {
 TABLE.gear IMG {
 	width: 100px;
 }
+
+P.lessonLearned {
+	
+}
+
+P.lessonAction {
+	font-style: italic;
+	margin-left: 2em;
+}

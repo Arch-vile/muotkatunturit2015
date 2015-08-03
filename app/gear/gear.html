@@ -28,5 +28,10 @@
 			<img src="resources/data/images/gear/{{gear.image || 'missing.jpeg'}}"/>	
 		</td>
 	</tr>
-
 </table>
+
+<h1>Lessons learned</h1>
+<div ng-repeat="lesson in content.lessonsLearned">
+	<p class="lessonLearned">{{lesson.description}}</p>
+	<p class="lessonAction">{{lesson.action}}</p>
+</div>

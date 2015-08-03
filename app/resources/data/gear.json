@@ -46,6 +46,16 @@
 			"cons": [""],
 			"verdict": ""
 		}
+	],
+	"lessonsLearned": [
+		{
+			"description": "some text",
+			"action": "some action"
+		},
+		{
+			"description": "ddd",
+			"action": "selvitä kalavesiä ja lajeja ja kalastustapoja etukäteen! ja alamitat :)"
+		}
 	]
 	
 }
