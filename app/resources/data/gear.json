@@ -6,14 +6,31 @@
 			"text": "Reissulla uutena mukana pannu ja kahvit aikaisempien pussikahvien sijaan. Voi että, kylläpä maistuu paremmalta ja tunnelmakin on kohdillaan.",
 			"pros": ["Maku","Helppo kaataa","Toimii myös teelle"],
 			"cons": ["Vain mustana (harkintaan maitojauhetta)", "1 litran pannu riittää vain kahdelle", "Ei muuta käyttöä"],
-			"verdict": "Ehdottomasti mukaan"
+			"verdict": "Mukaan",
+			"image": "trangia.JPG"
 		},
 		{
-			"name": "Pokkari",
-			"text": "Hyvä, tulee kuvattua enemmän. Ulkoneva linssi aiheutti pientä säätöä tunkiessa rinkan lannevyön taskuun",
-			"pros": ["yks","kaks"],
-			"cons": ["toinen", "kolmas"],
-			"verdict": "mukaan"
+			"name": "Pokkari (DMC-LX2)",
+			"text": "Hyvä, tulee kuvattua enemmän, koska helppo saada esiin. Ulkoneva linssi aiheutti pientä säätöä tunkiessa rinkan lannevyön taskuun. Mukaan tarvitaan myös joku vesitiivis, mutta kätevä kotelo kameralle.",
+			"pros": ["Tulee otettua enemmän kuvia","Pienempi paino","Kyseisessä pokkarissa kätevä ominaisuus, joissa kuviin saa liitettyä 5 sec ääniraidan."],
+			"cons": ["Kuvan laatu vaativammissa oloissa","Pokkari ilman ulkonevaa objektiivia mahtuisi paremmin taskuun"],
+			"verdict": "Mukaan",
+			"image": "dmc-lx2.jpeg"
+		},
+		{
+			"name": "ThermaCell hyttyskarkoitin",
+			"text": "Butaanilla toimiva hyttyskarkoitin. Lupaa 20m alueen vapaaksi hyttysistä. Tuntuu toimivan, mutta teho toki rajoittuu pienessäkin tuulessa ja alue on todellisuudessa pienempi. Pidettiin päällä aina pidemmillä ruokailutauoilla, jotta sai rauhassa kokkailla.",
+			"pros": ["Toimii oikeastaan aika hyvin","Tuo rauhan ötököiltä pidemmillä tauoilla"],
+			"cons": ["Paino","Tuulessa teho heikompi","Ei tietenkään toimi liikkeessä"],
+			"verdict": "",
+			"image": "thermacell.jpeg"
+		},
+		{
+			"name": "",
+			"text": "",
+			"pros": [""],
+			"cons": [""],
+			"verdict": ""
 		}
 	]
 }

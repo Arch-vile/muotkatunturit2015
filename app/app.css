@@ -50,6 +50,10 @@ figure.floatingFigure {
 	float: right;
 }
 
-TABLE.gear {
+TABLE.gear TD {
 	border: 1px solid black;
+}
+
+TABLE.gear IMG {
+	width: 100px;
 }
