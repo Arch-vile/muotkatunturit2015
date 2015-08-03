@@ -33,4 +33,28 @@
 	color: white;
 	background-color: black;	
 }
+
+figure {
+    border: 1px dotted gray;
+    margin: 20px; 
 }
+figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    border: 1px dotted blue;
+    text-align: center;
+}
+
+figure.floatingFigure {
+	float: right;
+}
+
+/*p:before {
+	content: "";
+	width: 500px;
+	display: block;
+	overflow: hidden;
+	border: 1px solid green;
+}*/
+

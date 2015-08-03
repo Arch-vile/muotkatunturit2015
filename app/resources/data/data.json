@@ -5,37 +5,73 @@
 		{
 			"paragraphs": [
 				{
-					"text": "some text here",
-					"images": [
-						"logo.png","logo.png"
-					]
+					"text": "Tänä vuonna oli taas uuden vaelluskohteen etsintä edessä. Ensimmäisenä lähdimme tutkimaan Paistunturin erämaata, mutta se rajautui pian pois, sillä kalastusmahdollisuudet vaikuttivat huonoilta rajoitusten ja vesistöjen suhteen. Asiaa mutkisti entisestään suuren osan erämaasta peittävä Kevon luonnonpuisto, jossa kalastus on täysin kiellettyä ja tekeminen muutenkin rajoitetumpaa."
 				},
 				{
-					"text": "some text here too",
-					"images": [
-						"logo.png","logo.png"
-					]
+					"text": "Siirryimme tarkastelemaan Paistunturin eteläpuolella olevaa Muotkatuntureiden erämaa-aluetta. Suunnittelun aikaan ei paperista karttaa tuntunut löytyvän mistään, joten jouduimme ostamaan muoville painetun kestokartan (puoleen hintaan sentään), jotta pääsimme tutkimaan aluetta riittävän tarkasti. Lähempänä lähtöä, uutta painosta paperikartasta ilmestyi valikoimiin, joten matkaan ei sentään tarvinnut lähteä painavan kestokartan kanssa."
+				},
+				{
+					"text": "Muotkatunturit vaikuttivat varsin mainiolta vaelluskohteelta sisältäen kalastettavaa vesistöä (myös jokia) ja ollen selkeästi todellinen erämää polkujen ja autiotupien puuttuessa. Sinne siis. Aloitus- ja lopetuspaikkaa lukuunottamatta sen tarkempaa reittisuunnittelua ei oikeastaan tehty, vaan päätettiin katsoa tilannetta paikan päällä."
+				},
+				{
+					"text": "Yhteydet varmistettiin, lennot varattiin sekä lomat sumplittiin ja kaikki oli valmista. Kunnes viime metreillä Ville saa kätensä niin kipeäksi (syy edelleen tuntematon), että ei uskalla lähteä reissuun. Näin ollen Markus ja Mikko suuntaavat kahdestaan kohti Muotkaa."
 				}
-			],
-			"images": ["logo.png","logo.png"]
+			]
 		}
 	,
 	"entries": [
 		 {
-		 	"start": "2012-04-23",
-		 	"end": "2012-04-24",
-			"summary": "from here to there",
-			"routeLength": 10.2,
-			"blocks": [
+		 	"date": "2015-07-22",
+			"summary": "Helsinki - Peltojoki",
+			"routeLength": 8,
+			"paragraphs": [
 				{
-					"paragraphs": ["paragraph 1","paragraph 2"],
-					"images": ["logo.png","logo.png"]
+					"text": "Nousimme lentokoneeseen noin 10 aikoihin aamulla ja saavuimme Ivaloon noin puolentoistatunnin päästä. Ivalosta taxilla Ivalon Siwaan, jonne retkikeittimen kaasut oli lähetetty etukäteen (lentokoneeseen ei voi viedä). Samalla Siwasta mukaan myös tulitikut ja sytkärit. K-kaupasta hankitut aamupala-ainekset syötiin Matkahuollon pihalla, josta bussikin lähtee. Kello yhden aikaan bussiin kohti Karigasniemeä. Bussista jäimme pois Muotkanruoktussa (tai Muotkanruotku riippuen mistä lukee) vähän vaille neljä iltapäivällä. Kahvilasta kahvit ja viimeiset eväät naamariin, jonka jälkeen sata metriä kävellen tietä pitkin Karigasniemen suuntaan, jotta pääsimme oikealle puolelle Peltojokea. ",
+					"images": [
+							{"file": "re_P1020011.JPG", "caption": "Aamupalalla Matkahuollon pihalla"},
+							{"file": "re_P1020012.JPG", "caption": "Muotkanruoktun kahvilalla"}
+						]
 				},
 				{
-					"paragraphs": ["paragraph 3","paragraph 4"],
-					"images": ["logo.png","logo.png"]
+					"text": "Etenimme Peltojokea hiljalleen rinkat selessä kalastaen. Eipä aikaakaan kun reissun ensimmäinen kala saatiin rannalle; alamittainen harjus, joka jäi myös lajinsa viimeiseksi edustajaksi tällä reissulla. Peltojoki oli ainakin tänä vuonna tähän aikaan kovin matala, joten kalapaikkoja oli hieman harvassa. Alamittaista taimenta alkoi nousemaan hieman myöhemmin päivällä ja sitähän tuli paljon.",
+					"images": [
+							{"file": "re_P1020014.JPG", "caption": "Reissun ensimmäinen kala (ja viimeinen harjus)"},
+							{"file": "re_P1020015.JPG", "caption": "Peltojokea kalastaen edeten"}
+						]
+				},
+				{
+					"text": "Joella jonkin verran hyttystä liikkeellä. Ei mitenkään mahdottomasti, mutta häiritsevästi näin ekalla päivälle kun ei ole vielä ehtinyt tottua. Markus sonnistautui verkkoon heti lähdöstä. Varustehuomiona Markukselta tarve kaulukselliselle vaelluspaidalle, jottei ötökät pääse niskaan kiinni. Sopivia leiripaikkoja oli pitkin joenvartta, joten oli varaa valita. Leiriydyttyämme alkoi myös hyttysiä kerääntyä paikalle enemmän. Laitoimme ThermaCellin hyttyskarkoittimen ensitestiin ja toden totta (ainakin yhdistettyä nuotion vaikutukseen) ötököistä päästiin eroon käytännössä kokonaan.",
+					"images": [
+							{"file": "re_P1020017.JPG", "caption": "Verkko toimii muuten, mutta niska jää suojatta"},
+							{"file": "re_P1020018.JPG", "caption": "Markuksen ensimmäinen alamittainen"},
+							{"file": "re_P1020020.JPG", "caption": "Sopiva leiripaikka löytyi"}
+						]
+				},
+				{
+					"text": "kahvit",
+					"images": [
+							{"file": "re_P1020022.JPG", "caption": "Tavan mukaan illalla kerrataan ja kirjataan päivän tapahtumat"}
+
+						]
 				}
 			]
 		}
-	]
+	],
+	"postlog":
+		{
+			"paragraphs": [
+				{
+					"text": "Hyttystä ja mäkäräistä oli jonkun verran häiritsemässä, mutta koko vaelluksella tilanne ei missään vaiheessa olla mitenkään ylitsepääsemätön. Markus sonnustautui verkkoon usein ja karkoitettakin taisi tulla käytettyä aika paljon. Mikosta eivät ötökät välittäneet niin paljoa, joten verkkoa tuli käytettyä hyvin harvoin ja karkoitettakin harvakseltaan. Haittaa oli toki enemmän kuin aiemmilla myöhemmin syksyllä tapahtuneilla vaelluksilla, mutta ei tämän takia kannata reissua väliin jättää. Jos valinnan varaa on, niin tulevat vaellukset kuitenkin tehdään hieman myöhemmin."
+				},
+				{
+					"text": "Lämpötilasta"
+				},
+				{
+					"text": "kalavesistä"
+				},
+				{
+					"text": "muotka vaelluskohteena"
+				}
+			]
+		}
 }
