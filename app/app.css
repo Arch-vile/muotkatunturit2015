@@ -50,11 +50,6 @@ figure.floatingFigure {
 	float: right;
 }
 
-/*p:before {
-	content: "";
-	width: 500px;
-	display: block;
-	overflow: hidden;
-	border: 1px solid green;
-}*/
-
+TABLE.gear {
+	border: 1px solid black;
+}

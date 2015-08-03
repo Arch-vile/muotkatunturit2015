@@ -10,10 +10,7 @@ angular.module('myApp.travelLog', ['ngRoute'])
 }])
 
 .controller('TravelLogCtrl', ['$scope','$http', function($scope, $http) {
-
-	$scope.names = ["mikko", "markus"];
-	
-	$http.get('resources/data/data.json').
+	$http.get('resources/data/travellog.json').
     success(function(data, status, headers, config) {
       $scope.content = data;
     }).

@@ -5,6 +5,7 @@ angular.module('myApp', [
   'ngRoute',
   'myApp.travelLog',
   'myApp.other',
+  'myApp.gear',
   'myApp.version'
 ]).
 config(['$routeProvider', function($routeProvider) {

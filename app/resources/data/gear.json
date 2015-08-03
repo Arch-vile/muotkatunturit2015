@@ -1,0 +1,12 @@
+{
+	"gear": [
+
+		{
+			"name": "Kahvipannu",
+			"text": "Ihan jees",
+			"pros": ["yks","kaks"],
+			"cons": ["toinen", "kolmas"],
+			"verdict": "mukaan"
+		}
+	]
+}
