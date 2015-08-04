@@ -69,10 +69,38 @@
 		},
 		{
 			"description": "kahvia mukaan",
-			"action": "vahvempaa"
+			"action": "vahvempaa ja klipsi jolla saa paketin suljettua"
 		},
 		{
 			"description": "aluspaidat kauluksellisia",
+			"action": "some action"
+		},
+		{
+			"description": "Tavallinen kauppapussi ruokapussina hieman huono, koska esim meetwursti paketit repivät pussin rikki.",
+			"action": "Mukaan joku vahvempi pussi, jossa sailyttää päivittäin käytettävät ruokatavarat."
+		},
+		{
+			"description": "Mikolla tuli taas vasempaan jalkaan rakkula vaikka tällä kertaa oli jo kotona laitettu Compeedit valmiiksi molempiin jalkoihin. Mutta rakkula oli nyt pienempi ja uuden compeedin myötä ei vaivannut enää loppureissusta.",
+			"action": "Compeedit kotona jalkaan myös ensi kerralla."
+		},
+		{
+			"description": "some text",
+			"action": "some action"
+		},
+		{
+			"description": "some text",
+			"action": "some action"
+		},
+		{
+			"description": "some text",
+			"action": "some action"
+		},
+		{
+			"description": "some text",
+			"action": "some action"
+		},
+		{
+			"description": "some text",
 			"action": "some action"
 		},
 		{
