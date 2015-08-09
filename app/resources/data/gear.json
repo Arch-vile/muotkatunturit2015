@@ -27,7 +27,7 @@
 		},
 		{
 			"name": "Vesileili Ortlieb 10l",
-			"text": "Käytännössä kuivasäkki, jonka pohjaan liitetty kierrettävä venttiili. Venttiili olisi käytettävämpi puristettavana / käännettävänä hanana, jolloin käyttö onnistuisi yhdellä kädellä.",
+			"text": "Käytännössä kuivasäkki, jonka pohjaan liitetty kierrettävä venttiili. Venttiili olisi käytettävämpi puristettavana / käännettävänä hanana, jolloin käyttö onnistuisi yhdellä kädellä. Käännettävä hana luultavasti paras, sillä sitä saisi operoitua yhdellä kädellä ja pysyisi auki itsestään.",
 			"pros": ["Ehdoton apu leirielemään","Kestävä materiaali pussissa ja venttiilissä","Sopiva koko","Toimii myös kuivasäkkinä"],
 			"cons": ["Käyttö vaatii kaksi kättä"],
 			"verdict": "menettelee",
@@ -48,14 +48,14 @@
 			"verdict": ""
 		},
 		{
-			"name": "",
-			"text": "",
+			"name": "Garmin Fenix 2",
+			"text": "Selvitä miten resetoidaan/buutataan",
 			"pros": [""],
 			"cons": [""],
 			"verdict": ""
 		},
 		{
-			"name": "",
+			"name": "Wasa merisuola&sesam näkkileipä",
 			"text": "",
 			"pros": [""],
 			"cons": [""],
@@ -84,28 +84,28 @@
 			"action": "Compeedit kotona jalkaan myös ensi kerralla."
 		},
 		{
-			"description": "some text",
-			"action": "some action"
+			"description": "Haavi mukaan. Paikoitellen heittopaikat sellaisia, että kalojen rantautus onnistuisi paljon paremmin haavilla. Lisäksi jää harmittamaan jos harvat mittakalat karkuuttaa ylösnostossa.",
+			"action": "Haavi mukaan"
 		},
 		{
-			"description": "some text",
-			"action": "some action"
+			"description": "Snickers paras suklaa reissussa. Ei murene ja maistuu parhaalta.",
+			"action": "Jätetään suklaalevyt ja muut suosiolla kotiin"
 		},
 		{
-			"description": "some text",
-			"action": "some action"
+			"description": "Välineet koukun irroitukseen. Alamittaista kalaa jos sattuu tulemaan paljonkin, niin osassa koukkua vaikea saada käsipelillä ilman kalaa vahingoittamatta irti.",
+			"action": "Harkintaan joku apuväline koukun helpompaa irroitukseen"
 		},
 		{
-			"description": "some text",
-			"action": "some action"
+			"description": "Kompassin päivitys. Nykyisestä on jo viivat kuluneet ja on aika hidas verratuna Markuksen kompassiin",
+			"action": "Uusi kompassi ostoslistalle"
 		},
 		{
-			"description": "some text",
-			"action": "some action"
+			"description": "Viski maistuu reissussa! Tällä kertaa sitä oli mukana enemmän, mutta edelleen pääsi loppumaan.",
+			"action": "Jalokahvit vaihdetaan viskiin"
 		},
 		{
-			"description": "some text",
-			"action": "some action"
+			"description": "Kelan pakkaukseen ja kuljetukseen jokin kotelo olisi hyvä. Kela on vaikea pakattava ja siinä on teräviä kulmia.",
+			"action": "Keloille jokin hyvä kotelo mukaan"
 		}
 	]
 	
