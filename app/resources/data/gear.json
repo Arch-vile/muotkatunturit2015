@@ -60,6 +60,21 @@
 			"pros": [""],
 			"cons": [""],
 			"verdict": ""
+		},
+		{
+			"name": "Marmot Early Light 2P",
+			"text": "Kahden hengen retkeilyteltta",
+			"pros": ["Tuuletus todella hyvä","Molemmilla oma sisäänkäynti"],
+			"cons": ["Sateella kasatessa sataa sisään kunnes saa päälikankaan paikalleen","Ei vakuuta rakenteiltaan","Veden pitävyys ääriolosuhteissa epäilyttää","Ei pidä lämpöä, joten ei kylmiin keleihin"],
+			"verdict": "Vaihtoehtoja kannattaa harkita",
+			"image": "earlyLight2P.jpeg"
+		},
+		{
+			"name": "IceBreaker merino kalsarit",
+			"text": "Ohuet merinovillaiset kalsarit",
+			"pros": ["Tuntuu lämpimiltä märkänäkin","Mukavat kävellessä"],
+			"cons": [""],
+			"verdict": "Kaikki muu on turhaa"
 		}
 	],
 	"lessonsLearned": [

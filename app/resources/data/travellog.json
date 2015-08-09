@@ -198,6 +198,25 @@
 				}
 				
 			]
+		},
+			{
+		 	"date": "2015-07-27",
+			"summary": "Kurtojoen kämppä - Saddejärvi",
+			"routeLength": 10,
+			"paragraphs": [
+				{
+					"text": "Säätiedotusten mukaan heti aamusta satoi. Odottelimme ihan rauhassa jos sade vaikka vähän hellittäisi. Kahdentoista aikoihin oli pakko lähteä liikkeelle kun sateessa vaikutti olevan hieman taukoa. Lähdimme etelään kohti Saddejärveä. Koko päivän satoi ja hymykin alkoi jo vähän hyytyä. Matkan varrella olleella nyppylällä saimme kännykkään kentän ja siirsimme tilatun taxin Pyhäjärven itäpäätyyn lännen sijaan. Matkalla emme kalastaneet. Saddejärvellä oli kova tuuli, joten päätimme pystyttää leirin tuulensuojaisemmalle etäläpuolelle. ",
+					"images": [
+							{"file": "re_P1020092.JPG", "caption": "Leiripaikalla Saddejärvellä"}
+						]
+				},
+				{
+					"text": "Leiripaikan kohdalla oli ranta matala ja ihmeellisen sohjon peitossa. Jalka olisi uponnut vähintään polveen saakka jos sinne olisi astunut. Vaikeutti myös veden ottamista, sillä sohjo lähti heti liikkelle ja meni säkkiin. Kävelin pari sataa metriä takaisin, jossa pieni suopuro laskee järveen  ja saimme siitä välttävästi vettä. Odottelimme teltassa muutaman tunnin sateen loppumista, jonka jälkeen ruokailu. Sateen loputtua testasin Saddejärven kalakantaa leirin kohdilta. Näytti haukea olevan paikalla."
+				},
+				{
+					"text": "Sateella huomattiin Markuksen teltan vuotavan oikeanpuoleisen oven vetoketjun yläsaumasta. Vuoto kuitenkin hellitti syystä tai toisesta ja yö säilyttiin kuivana."
+				}
+			]
 		}
 	],
 	"postlog":
