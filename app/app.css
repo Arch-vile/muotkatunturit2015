@@ -1,4 +1,9 @@
 /* app css stylesheet */
+BODY {
+	margin: 50px;
+	background-image: url("resources/images/stonewall.jpg")
+}
+
 
 .menu {
   list-style: none;
@@ -35,15 +40,18 @@
 }
 
 figure {
-    border: 1px dotted gray;
+    border: 1px solid black;
     margin: 20px; 
 }
 figure img {
     vertical-align: top;
 }
 figure figcaption {
-    border: 1px dotted blue;
+    border: 1px solid black;
     text-align: center;
+    background-color: black;
+    color: white;
+    font-weight: bold;
 }
 
 figure.floatingFigure {
@@ -59,7 +67,7 @@ TABLE.gear IMG {
 }
 
 P.lessonLearned {
-	
+	font-weight: bold;
 }
 
 P.lessonAction {

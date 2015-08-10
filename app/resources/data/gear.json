@@ -92,19 +92,19 @@
 	],
 	"lessonsLearned": [
 		{
-			"description": "ddd",
-			"action": "selvitä kalavesiä ja lajeja ja kalastustapoja etukäteen! ja alamitat :)"
+			"description": "Tehdään etukäteissuunnittelua kalastuksen suhteen paremmin. Emme selvitelleet kovinkaan paljoa etukäteen kohdelajeja, paikkoja ja kalastustapoja. Myös alamitat on hyvä tarkistaa ennen reissuun lähtöä.",
+			"action": "Tehdään etukäteen parempaa reittisuunnittelua, jotta saadaan parhaat kalavedet käytyä läpi. Tehdään parempaa tutkimusta muiden kokemuksista alueelta. Selvitetään jos joku palvelu näyttäisi vesien syvyyskäyriä (/satelliittikuvia), jotta turhia koukkuja liian mataliin vesistöihin ei tarvitse tehdä."
 		},
 		{
-			"description": "kahvia mukaan",
-			"action": "vahvempaa ja klipsi jolla saa paketin suljettua"
+			"description": "Pannukahvit voittaa pikakahvit mennen tullen, mutta kahvi saa olla vahvaa ja mukaan pussin sulkija.",
+			"action": "Vahvempaa kahvia (tummapaahtoa) ja pussin sulkija"
 		},
 		{
-			"description": "aluspaidat kauluksellisia",
-			"action": "some action"
+			"description": "Aluspaidat jättävät kaulan tai niskan altiiksi hyttysille",
+			"action": "Vaelluspaidan tulee olla kauluksellinen"
 		},
 		{
-			"description": "Tavallinen kauppapussi ruokapussina hieman huono, koska esim meetwursti paketit repivät pussin rikki.",
+			"description": "Tavallinen kauppapussi ruokapussina huono, koska esim meetwursti paketit repivät pussin rikki.",
 			"action": "Mukaan joku vahvempi pussi, jossa sailyttää päivittäin käytettävät ruokatavarat."
 		},
 		{
@@ -112,8 +112,8 @@
 			"action": "Compeedit kotona jalkaan myös ensi kerralla."
 		},
 		{
-			"description": "Haavi mukaan. Paikoitellen heittopaikat sellaisia, että kalojen rantautus onnistuisi paljon paremmin haavilla. Lisäksi jää harmittamaan jos harvat mittakalat karkuuttaa ylösnostossa.",
-			"action": "Haavi mukaan"
+			"description": "Paikoitellen heittopaikat sellaisia, että kalojen rantautus onnistuisi paljon paremmin haavilla. Lisäksi jää harmittamaan jos harvat mittakalat karkuuttaa ylösnostossa.",
+			"action": "Sopiva haavi ostetaan ja otetaan mukaan"
 		},
 		{
 			"description": "Snickers paras suklaa reissussa. Ei murene ja maistuu parhaalta.",
@@ -136,8 +136,8 @@
 			"action": "Keloille jokin hyvä kotelo mukaan"
 		},
 		{
-			"description": "Miten kello buutataan",
-			"action": "Keloille jokin hyvä kotelo mukaan"
+			"description": "Urheilukellon satunnaiset kaatumiset aiheuttivat päänvaivaa. Tilanteissa olisi auttanut jos olisi tiennyt miten kellon voi buutata.",
+			"action": "Selvitetään etukäteen miten kello sammutetaan/käynnistetään/buutataan"
 		},
 		{
 			"description": "Säätiedot ovat ihan mukava lisä reissussa. Tällä kertaa saimme tekstiviestiä säätiedot iltaisin. Seuraavana päivänä jos sattui tunturin päälle, yritimme saada kenttää matkapuhelimella.",
