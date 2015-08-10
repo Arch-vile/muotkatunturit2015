@@ -205,17 +205,34 @@
 			"routeLength": 10,
 			"paragraphs": [
 				{
-					"text": "Säätiedotusten mukaan heti aamusta satoi. Odottelimme ihan rauhassa jos sade vaikka vähän hellittäisi. Kahdentoista aikoihin oli pakko lähteä liikkeelle kun sateessa vaikutti olevan hieman taukoa. Lähdimme etelään kohti Saddejärveä. Koko päivän satoi ja hymykin alkoi jo vähän hyytyä. Matkan varrella olleella nyppylällä saimme kännykkään kentän ja siirsimme tilatun taxin Pyhäjärven itäpäätyyn lännen sijaan. Matkalla emme kalastaneet. Saddejärvellä oli kova tuuli, joten päätimme pystyttää leirin tuulensuojaisemmalle etäläpuolelle. ",
+					"text": "Säätiedotusten mukaan heti aamusta satoi. Odottelimme ihan rauhassa jos sade vaikka vähän hellittäisi. Kahdentoista aikoihin oli pakko lähteä liikkeelle kun sateessa vaikutti olevan hieman taukoa. Lähdimme etelään kohti Saddejärveä. Koko päivän satoi ja hymykin alkoi jo vähän hyytyä. Ei kyllä ole mukavaa hommaa vaeltaminen jatkuvassa sateessa. Merinovillaiset kalsarit näyttivät kyntensä. Huomasin vasta riisuessa, että ne olivat litimärät. Samoin kuumana päivänä eivät tunnu hikisiltä. Tuleville reissuille en aio muita ottaa mukaan."
+				},
+				{
+					"text": "Matkan varrella olleella nyppylällä saimme kännykkään kentän ja siirsimme tilatun taxin Pyhäjärven itäpäätyyn lännen sijaan. Matkalla emme kalastaneet. Saddejärvellä oli kova tuuli, joten päätimme pystyttää leirin tuulensuojaisemmalle etäläpuolelle. ",
 					"images": [
 							{"file": "re_P1020092.JPG", "caption": "Leiripaikalla Saddejärvellä"}
 						]
 				},
 				{
-					"text": "Leiripaikan kohdalla oli ranta matala ja ihmeellisen sohjon peitossa. Jalka olisi uponnut vähintään polveen saakka jos sinne olisi astunut. Vaikeutti myös veden ottamista, sillä sohjo lähti heti liikkelle ja meni säkkiin. Kävelin pari sataa metriä takaisin, jossa pieni suopuro laskee järveen  ja saimme siitä välttävästi vettä. Odottelimme teltassa muutaman tunnin sateen loppumista, jonka jälkeen ruokailu. Sateen loputtua testasin Saddejärven kalakantaa leirin kohdilta. Näytti haukea olevan paikalla."
+					"text": "Leiripaikan kohdalla oli ranta matala ja ihmeellisen sohjon peitossa. Jalka olisi uponnut vähintään polveen saakka jos sinne olisi astunut. Vaikeutti myös veden ottamista, sillä sohjo lähti heti liikkelle ja meni säkkiin. Kävelin pari sataa metriä takaisin, jossa pieni suopuro laskee järveen  ja saimme siitä välttävästi vettä. Odottelimme teltassa muutaman tunnin sateen loppumista, jonka jälkeen ruokailu. Ensimmäinen 450g kaasusäiliö tyhjeni."
 				},
 				{
-					"text": "Sateella huomattiin Markuksen teltan vuotavan oikeanpuoleisen oven vetoketjun yläsaumasta. Vuoto kuitenkin hellitti syystä tai toisesta ja yö säilyttiin kuivana."
+					"text": "Sateella huomattiin Markuksen teltan vuotavan oikeanpuoleisen oven vetoketjun yläsaumasta, josta se tiputtaa sisäkankaalle. Vuoto kuitenkin hellitti syystä tai toisesta ja yö säilyttiin kuivana."
 				}
+			]
+		},
+		{
+		 	"date": "2015-07-28",
+			"summary": "Saddejärvi - Angelin tie (Uutelan haara)",
+			"routeLength": 10,
+			"paragraphs": [
+				{
+					"text": "Aamusella sateli paikoitellen, mutta lopulta sade loppui ja nousimme aamutoimiin. Mikko kävi testaamassa Saddejärven kalakantaa lähirannasta ja osoittautui haukea olevan paikalla. Ovat kutupuuhissa aivan rannassa ja käyvät kiinni kaikkeen mikä liikkuu. Aamupalan jälkeen jatkoimme Cissadanlatulle, joka oli liian matala kalastukseen. Siitä jatkoimme Kurtojoelle, joka näytti oikein hyvältä kalajoelta, mutta saaliina jälleen vain alamittaisia. Jokea kalastellen Pyhäselälle, josta yli Pyhäjärvelle. Siitä tielle taxia odottamaan."
+				},
+				{
+					"text": "Mökille Inarin lomakylään (visitInari.fi), jossa saunallinen kahden hengen mökki. Menettelee."
+				}
+				
 			]
 		}
 	],

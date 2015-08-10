@@ -72,8 +72,8 @@
 		{
 			"name": "IceBreaker merino kalsarit",
 			"text": "Ohuet merinovillaiset kalsarit",
-			"pros": ["Tuntuu lämpimiltä märkänäkin","Mukavat kävellessä"],
-			"cons": [""],
+			"pros": ["Tuntuu lämpimiltä ja mukavilta märkänäkin","Mukavat kävellessä"],
+			"cons": ["Kuivuu hitaammin kuin tekninen"],
 			"verdict": "Kaikki muu on turhaa"
 		}
 	],
@@ -121,6 +121,10 @@
 		{
 			"description": "Kelan pakkaukseen ja kuljetukseen jokin kotelo olisi hyvä. Kela on vaikea pakattava ja siinä on teräviä kulmia.",
 			"action": "Keloille jokin hyvä kotelo mukaan"
+		},
+		{
+			"description": "Säätiedot ovat ihan mukava lisä reissussa. Tällä kertaa saimme tekstiviestiä säätiedot iltaisin. Seuraavana päivänä jos sattui tunturin päälle, yritimme saada kenttää matkapuhelimella.",
+			"action": "Käytännössä olisi parempi lähetää säätiedot aamuisin, sillä todennäköisemmin kännykällä saa kentän joskus päivän aikana. Myös nappikuulokkeet kannattaa ottaa mukaan, sillä ainakin Mikon puhelimessa on FM radio, mutta se vaatii kuulokkeet toimiakseen. Samalla pitäisi selvittää miltä asemalta saisi paikallisen sään."
 		}
 	]
 	
