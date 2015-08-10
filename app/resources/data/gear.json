@@ -140,6 +140,10 @@
 			"action": "Selvitetään etukäteen miten kello sammutetaan/käynnistetään/buutataan"
 		},
 		{
+			"description": "Ruokaa tuntui olevan ylimäärin mukana. Saimme syötyä vain yhden lämpimän aterian päivässä, joka oli yksi retkimuona tai yksi pataruoka kuivatulla jauhelihalla kahteen pekkaan. Molemmiltä jäi yli myös yksi kokonainen juusto (300g) ja kokonainen meetwursti (250g).",
+			"action": "Tuunataan ruokien määrää seuraavalle reissulle"
+		},
+		{
 			"description": "Säätiedot ovat ihan mukava lisä reissussa. Tällä kertaa saimme tekstiviestiä säätiedot iltaisin. Seuraavana päivänä jos sattui tunturin päälle, yritimme saada kenttää matkapuhelimella.",
 			"action": "Käytännössä olisi parempi lähetää säätiedot aamuisin, sillä todennäköisemmin kännykällä saa kentän joskus päivän aikana. Myös nappikuulokkeet kannattaa ottaa mukaan, sillä ainakin Mikon puhelimessa on FM radio, mutta se vaatii kuulokkeet toimiakseen. Samalla pitäisi selvittää miltä asemalta saisi paikallisen sään."
 		}
