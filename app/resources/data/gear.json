@@ -6,7 +6,7 @@
 			"text": "Reissulla uutena mukana pannu ja kahvit aikaisempien pussikahvien sijaan. Voi että, kylläpä maistuu paremmalta ja tunnelmakin on kohdillaan. Ensi kerralla mukaan hieman vahvempaa kahvia (tumma paahtoa).",
 			"pros": ["Maku","Helppo kaataa","Toimii myös teelle"],
 			"cons": ["Vain mustana (harkintaan maitojauhetta)", "1 litran pannu riittää vain kahdelle", "Ei muuta käyttöä"],
-			"verdict": "Mukaan",
+			"verdict": "Suosittelemme",
 			"image": "trangia.JPG"
 		},
 		{
@@ -14,7 +14,7 @@
 			"text": "Hyvä, tulee kuvattua enemmän, koska helppo saada esiin. Ulkoneva linssi aiheutti pientä säätöä tunkiessa rinkan lannevyön taskuun. Mukaan tarvitaan myös joku vesitiivis, mutta kätevä kotelo kameralle.",
 			"pros": ["Tulee otettua enemmän kuvia","Pienempi paino","Kyseisessä pokkarissa kätevä ominaisuus, joissa kuviin saa liitettyä 5 sec ääniraidan."],
 			"cons": ["Kuvan laatu vaativammissa oloissa","Pokkari ilman ulkonevaa objektiivia mahtuisi paremmin taskuun"],
-			"verdict": "Mukaan",
+			"verdict": "Suosittelemme",
 			"image": "dmc-lx2.jpeg"
 		},
 		{
@@ -22,7 +22,7 @@
 			"text": "Butaanilla toimiva hyttyskarkoitin. Lupaa 20m alueen vapaaksi hyttysistä. Tuntuu toimivan, mutta teho toki rajoittuu pienessäkin tuulessa ja alue on todellisuudessa pienempi. Pidettiin päällä aina pidemmillä ruokailutauoilla, jotta sai rauhassa kokkailla.",
 			"pros": ["Toimii oikeastaan aika hyvin","Tuo rauhan ötököiltä pidemmillä tauoilla"],
 			"cons": ["Paino","Tuulessa teho heikompi","Ei tietenkään toimi liikkeessä"],
-			"verdict": "Riippuen vaellusajankohdasta ja kohteesta",
+			"verdict": "Varauksella",
 			"image": "thermacell.jpeg"
 		},
 		{
@@ -30,43 +30,55 @@
 			"text": "Käytännössä kuivasäkki, jonka pohjaan liitetty kierrettävä venttiili. Venttiili olisi käytettävämpi puristettavana / käännettävänä hanana, jolloin käyttö onnistuisi yhdellä kädellä. Käännettävä hana luultavasti paras, sillä sitä saisi operoitua yhdellä kädellä ja pysyisi auki itsestään.",
 			"pros": ["Ehdoton apu leirielemään","Kestävä materiaali pussissa ja venttiilissä","Sopiva koko","Toimii myös kuivasäkkinä"],
 			"cons": ["Käyttö vaatii kaksi kättä"],
-			"verdict": "menettelee",
+			"verdict": "Varauksella",
 			"image": "ortlieb.jpg"
 		},
 		{
-			"name": "Savotta Kajka 100l",
-			"text": "",
-			"pros": [""],
-			"cons": [""],
-			"verdict": ""
+			"name": "Fjällräven Kajka 100l",
+			"text": "100 litrainen rinkka loistavilla ominaisuuksilla. Pahimpana miinuksena alemmat sivutaskut, jotka ovat ylhäältä auki olevat verkkotaskut. Vaelluksella toimii ihan hyvin; toisella puolella oli trangia ja toisella juomapullo, mutta esim lentokokeen ruumassa ei taskuissa voi säilyttää mitään. Olisin mieluummin ottanut vetoketjulliset normaalit taskut.",
+			"pros": ["Tilava","Aukeava etuosa","Hyvä kantaa","Juomapullo käden ulottuvilla verkkotaskussa"],
+			"cons": ["Alemmat sivutaskut saisivat olla normaalit vetoketjulliset verkkotaskujen sijaan","Sadesuojalle saisi olla oma paikka rinkan pohjassa","Alaosan sisällä oleva verkko-ominaisuus turha"],
+			"verdict": "Suosittelemme",
+			"image": "kajka100.jpeg"
 		},
 		{
-			"name": "Pitkähihainen urheilupaita , permetriini käsittely",
-			"text": "",
-			"pros": [""],
-			"cons": [""],
-			"verdict": ""
+			"name": "Pitkähihainen urheilupaita",
+			"text": "SOC:in pitkähihainen urheilupaita. Toimii vaellluspaitana hyvin. Ei ole täysin hyttysen kestävä, mutta antaa jonkin verran suojaa. Liikkeellä ollessa täysin kelpo paita, mutta paikallaan pääsee itikat syömään. Kaksi paitaa päällekkäin niin suojaus on riittävä.",
+			"pros": ["Kevyt","Kuivuu nopeasti","Edullinen"],
+			"cons": ["Itikat pistää läpi"],
+			"verdict": "Suosittelemme",
+			"image": "soc.jpeg"
+		},
+		{
+			"name": "Permetriini käsittely",
+			"text": "Koemielessä ostin vaatteiden ötökkäkarkoitteena käytettävää Permetriiniä. Käsittelin sillä yhden SOC:in pitkähihaisen urheilupaidan. Aine tuntuu toimivan, hyttysiä laskeutuu paidalle, mutta ne eivät viihdy tarpeeksi pitkään pistääkseen. Vaatii vielä lisätestausta.",
+			"pros": ["Tuntuu toimivan","Ohuesta paidasta saa hyttysen kestävän"],
+			"cons": ["Myrkyn käyttö hieman epäilyttää"],
+			"verdict": "Varauksella",
+			"image": "permetriini.jpeg"
 		},
 		{
 			"name": "Garmin Fenix 2",
-			"text": "Selvitä miten resetoidaan/buutataan",
-			"pros": [""],
-			"cons": [""],
-			"verdict": ""
+			"text": "Urheilukello reitin tallennukseen ja seurantaan. Fenixissä saa Ultra Track moodissa asetettua itse GPS intervallin. Omien testien mukaan 10 minuutin intervallilla akkua kuluu noin 1% tunnissa. Kentällä pidemmässä testissä akku tuntui hupenevan nopeammin ja ilman varavirtaa olisi loppunut kesken. Pidin kelloa 5 minuutin intervallilla ja latasin sitä kaksi kertaa reissussa, yhteensä noin täyden akun verran. Kellosta pystyy vaelluksen aikana kätevästi seuraamaan kuljettua kokonaismatkaa ja näin tekemään hyvinkin tarkkoja suunnistuksia. Jostain syystä osa näytöistä (esim. kierrosaika + matka) päivittyvät ensin jatkuvasti (tietysty vain aika) mutta sitten vain intervallin välein, vaikka kierrosaika voisi päivittyä jatkuvasti. Lap-toimintoa on kätevä käyttää aloittamalla uusi kierros aina edelliseltä taukopaikalta/tiedetyltä sijainnilta, sillä se pakottaa myös GPS sijainnin ottamisen.",
+			"pros": ["Laadukas","Tallettaa vaellusreitin","Akun kesto","Auttaa suunnistuksessa"],
+			"cons": ["Satunnaiset kaatuilut","Osa näytöistä (esim lap) päivittyvät vain intervallin mukaan"],
+			"verdict": "Suosittelemme",
+			"image": "fenix2.jpeg"
 		},
 		{
 			"name": "Wasa merisuola&sesam näkkileipä",
-			"text": "",
-			"pros": [""],
+			"text": "Parasta näkkileipää",
+			"pros": ["Maku"],
 			"cons": [""],
-			"verdict": ""
+			"verdict": "Suosittelemme",
+			"image": "wasaSesam.jpeg"
 		},
 		{
 			"name": "Marmot Early Light 2P",
 			"text": "Kahden hengen retkeilyteltta",
 			"pros": ["Tuuletus todella hyvä","Molemmilla oma sisäänkäynti"],
 			"cons": ["Sateella kasatessa sataa sisään kunnes saa päälikankaan paikalleen","Ei vakuuta rakenteiltaan","Veden pitävyys ääriolosuhteissa epäilyttää","Ei pidä lämpöä, joten ei kylmiin keleihin"],
-			"verdict": "Vaihtoehtoja kannattaa harkita",
+			"verdict": "Varauksella",
 			"image": "earlyLight2P.jpeg"
 		},
 		{
@@ -74,7 +86,8 @@
 			"text": "Ohuet merinovillaiset kalsarit",
 			"pros": ["Tuntuu lämpimiltä ja mukavilta märkänäkin","Mukavat kävellessä"],
 			"cons": ["Kuivuu hitaammin kuin tekninen"],
-			"verdict": "Kaikki muu on turhaa"
+			"verdict": "Suosittelemme",
+			"image": "iceBreaker.jpeg"
 		}
 	],
 	"lessonsLearned": [
@@ -120,6 +133,10 @@
 		},
 		{
 			"description": "Kelan pakkaukseen ja kuljetukseen jokin kotelo olisi hyvä. Kela on vaikea pakattava ja siinä on teräviä kulmia.",
+			"action": "Keloille jokin hyvä kotelo mukaan"
+		},
+		{
+			"description": "Miten kello buutataan",
 			"action": "Keloille jokin hyvä kotelo mukaan"
 		},
 		{
