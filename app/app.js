@@ -4,7 +4,7 @@
 angular.module('myApp', [
   'ngRoute',
   'myApp.travelLog',
-  'myApp.other',
+  'myApp.map',
   'myApp.gear',
   'myApp.version'
 ]).
