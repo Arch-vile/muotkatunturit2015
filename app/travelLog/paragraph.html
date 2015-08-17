@@ -1,5 +1,5 @@
 <figure ng-repeat="image in paragraph.images.slice().reverse() track by $index" class="floatingFigure">
-		<img src="resources/data/images/{{image.file}}" alt="{{image.caption}}" />	
+		<img ng-src="resources/data/images/{{image.file}}" alt="{{image.caption}}" />	
 		<figcaption>{{image.caption}}</figcaption>
 </figure>
 <p>
