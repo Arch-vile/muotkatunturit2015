@@ -88,6 +88,14 @@
 			"cons": ["Kuivuu hitaammin kuin tekninen"],
 			"verdict": "Suosittelemme",
 			"image": "iceBreaker.jpeg"
+		},
+		{
+			"name": "Chifonet tiskirätti",
+			"text": "Hyvin vettä imevä rätti astioiden yms kuivaamiseen",
+			"pros": ["Ei paina mitään","Pientä luksusta","Voi desinfioida reissussa keittämällä"],
+			"cons": [],
+			"verdict": "Suosittelemme",
+			"image": "chifonet.jpeg"
 		}
 	],
 	"lessonsLearned": [
@@ -134,6 +142,14 @@
 		{
 			"description": "Kelan pakkaukseen ja kuljetukseen jokin kotelo olisi hyvä. Kela on vaikea pakattava ja siinä on teräviä kulmia.",
 			"action": "Keloille jokin hyvä kotelo mukaan"
+		},
+		{
+			"description": "Isojen puukkojen tarve mietityttää. Itselläni ei ollut kertaakaan tarvetta puiden pilkkomiseen tai muuhun heavy duty hommaan. Reissussa voisi olla yksi jykevämpi puukko (esim. Peltosen sissipuukko) ja muilla kompaktimmat ja kevyemmät vaihtoehdot.",
+			"action": "Pohditaan asiaa ensi reissulle"
+		},
+		{
+			"description": "Pyyhe tuntuu reissu reissulta turhemmalta. Tällä kertaa mukana oli ohut harso, joka ajoi asiansa itsensä kuivaamiseen. Uinti tms. keikkoja ei montaa reissussa tule, joten tuski sitä varten kannattaa tilaa vievää ja painavaa pyyhettä kantaa. Harso on kevyt ja siitä voi siltä saada lähes saman verran iloa.",
+			"action": "Ei pyyhkeitä enää mukaan"
 		},
 		{
 			"description": "Urheilukellon satunnaiset kaatumiset aiheuttivat päänvaivaa. Tilanteissa olisi auttanut jos olisi tiennyt miten kellon voi buutata.",
